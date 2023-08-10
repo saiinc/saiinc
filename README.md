@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @saiinc
+- 👋 Hi, I’m Anton
 - 👀 I’m interested in Python programming
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on web developers
